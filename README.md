@@ -1,2 +1,2 @@
-# Proyecto_MAIS
+# Proyecto
 Atención Integral en Salud en Contextos Educativos
